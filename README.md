@@ -2,7 +2,7 @@
 
 # Hello, I'm Aman !
 
-My name is Aman Bora, a Blockchain Developer from India. I am deeply in love with shell, blockchain, web3 and remote work. Improving open-source projects, one commit at a time. You can on find me at [LinkedIn][3].
+My name is Aman, a Software Developer from India. I’m deeply passionate about exploring new tech stacks, building automation solutions, and connecting with like-minded professionals. Experienced in blockchain DevOps and application development using Go, TypeScript, and Python
 
 
 
@@ -51,7 +51,7 @@ My name is Aman Bora, a Blockchain Developer from India. I am deeply in love wit
 
 
 [2]: https://github.com/amanbora856
-[3]: https://www.linkedin.com/in/aman-bora-7b78a2220/
+[3]: https://www.linkedin.com/in/aman-bora-dev/
 
 
 <!-- Resources -->
